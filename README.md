@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paraspasbola&show_icons=true&locale=en" alt="paraspasbola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paraspasbola&" alt="paraspasbola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paraspasbola&" alt="paraspasbola" /></p> 
 
